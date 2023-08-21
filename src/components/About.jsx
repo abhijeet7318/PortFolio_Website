@@ -42,7 +42,7 @@ const About = () => {
                <br />
                <br /> 
                <p className="text-xl">
-               <a href="" style={{color:"white"}}>State Topper: </a> 
+               <a href="www.google.com" style={{color:"white"}}>State Topper: </a> 
                  Secured 8th rank in the state among 2.5 million+ candidates in board examination 2018
                </p>
             </p>
