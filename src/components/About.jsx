@@ -32,19 +32,20 @@ const About = () => {
                Solved 650+ problems on Data Structures and Algorithms (Max rating of 1660).
                
                <br />
-               <br />
                <a href="https://auth.geeksforgeeks.org/user/abhijeetkushwaha208001/practice" style={{color:"white"}}>GeeksForGeeks: </a>   
                Solved 200+ problems on Data Structures and Algorithms. 
                <br />
-               <br />
                <a href="https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp" style={{color:"white"}}>HackerRank: </a>   
-                 6 start in CPP.
+                 6 star in CPP.
                <br />
-               <br /> 
+               <a href="https://github.com/abhijeet7318/HUL-and-GSK-Case-Study" style={{color:"white"}}>MnAnalyse: </a>   
+                 Won the case study organised by Finance and Economics Club of IIT Guwahati.
                <p className="text-xl">
                <a href="www.google.com" style={{color:"white"}}>State Topper: </a> 
                  Secured 8th rank in the state among 2.5 million+ candidates in board examination 2018
                </p>
+               <br />
+              
             </p>
              
          </p>
