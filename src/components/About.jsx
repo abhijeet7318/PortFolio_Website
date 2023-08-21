@@ -1,5 +1,4 @@
 import React from "react";
-import MoneyApp from "../assets/portfolio/MoneyApp.png";
 const About = () => {
   return (
     <div
@@ -43,7 +42,7 @@ const About = () => {
                <br />
                <br /> 
                <p className="text-xl">
-               <a style={{color:"white"}}>State Topper: </a> 
+               <a href="" style={{color:"white"}}>State Topper: </a> 
                  Secured 8th rank in the state among 2.5 million+ candidates in board examination 2018
                </p>
             </p>
