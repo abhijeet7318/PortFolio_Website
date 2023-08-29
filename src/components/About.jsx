@@ -29,11 +29,11 @@ const About = () => {
            
             <p className="text-xl mt-20 text-grey" style={{color:"grey"}}>
                <a href="https://leetcode.com/abhijeetkushwaha208001/" style={{color:"white"}}>Leetcode: </a>   
-               Solved 650+ problems on Data Structures and Algorithms (Max rating of 1660).
+               Solved 650+ problems on Data Structures and Algorithms (Max rating of 1750+).
                
                <br />
                <a href="https://auth.geeksforgeeks.org/user/abhijeetkushwaha208001/practice" style={{color:"white"}}>GeeksForGeeks: </a>   
-               Solved 200+ problems on Data Structures and Algorithms. 
+               Solved 250+ problems on Data Structures and Algorithms. 
                <br />
                <a href="https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp" style={{color:"white"}}>HackerRank: </a>   
                  6 star in CPP.
